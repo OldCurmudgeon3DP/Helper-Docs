@@ -6,4 +6,4 @@ I created the Tuning Tower spreadsheet based off the forumlas provided by the [K
 it was not intuitive for me to follow them.
 
 The Volumetric spreadsheet was created by [Machael Laws (Teaching Tech)](https://teachingtechyt.github.io/), but it had a formula typo at the time
-I first used it. This version is corrected.
+I first used it. This version is corrected. He has since created a webpage with the calculations and I updated the link in this file.
