@@ -7,4 +7,6 @@ These files are (hopefully) helpful with calculations when tuning your 3D printi
 The Volumetric spreadsheet was created by [Michael Laws (Teaching Tech)](https://teachingtechyt.github.io/), but it had a formula typo at the time
 I first used it. This version is corrected. He has since created a webpage with the calculations and I updated the link in this file.
 
-The Extrusion Multiplier sheet takes measurements from [Luke Hatfield's work here](https://www.thingiverse.com/thing:3220015) and does the legwork.
+Don't use this anymore.... The Extrusion Multiplier sheet takes measurements from [Luke Hatfield's work here](https://www.thingiverse.com/thing:3220015) and does the legwork.
+
+Better method over on Ellis's page [Here](https://ellis3dp.com/Print-Tuning-Guide/articles/extrusion_multiplier.html)
